@@ -80,37 +80,19 @@ Available Pages
 
 
 
-
-
-
-
-
-
-
-
-
-
-Screenshots
+## Screenshots
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c10c733e-2668-4116-86a0-97601ad0a38e" />
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8b10bdd2-1610-4bb9-b22f-94b06b9893e4" />
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6b2bc846-4d79-4d6c-812f-93103f3816b0" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1abda27e-21ea-42a1-a2b4-8db26e35f41d" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7bc7bda5-6f2a-460f-82c9-95bbbcf096e5" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d57b5998-9119-4998-84d0-0d57adf7b31c" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f3433b19-5598-4998-9e2b-8f9117a07ed6" />
 
 
 
-
-  
-
- 
-
-
-
-
- 
-________________________________________
-
-
-Deployment
+## Deployment
 You can deploy this frontend on:
 •	Netlify
 •	Vercel
@@ -120,8 +102,3 @@ You can deploy this frontend on:
 License
 This project is licensed under the MIT License.
 
-
-
-
-License
-This project is licensed under the MIT License.
