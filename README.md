@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -152,43 +151,6 @@ Available Pages
 •	/products/:id – Product Detail Page (if implemented)
 
 
-
-
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-Screenshots
-
- 
-
- 
-
-
-
-
- 
-
-  
-
- 
-
-
-
-
- 
-________________________________________
-
-
-Deployment
-=======
 ## Screenshots
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c10c733e-2668-4116-86a0-97601ad0a38e" />
@@ -198,7 +160,6 @@ Deployment
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7bc7bda5-6f2a-460f-82c9-95bbbcf096e5" />
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d57b5998-9119-4998-84d0-0d57adf7b31c" />
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f3433b19-5598-4998-9e2b-8f9117a07ed6" />
-
 
 
 ## Deployment
