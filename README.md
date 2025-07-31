@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+=======
+# flipkart-frontend
+Flipkart-Frontend - A modern, responsive frontend for the Flipkart Clone project, built using React.js. It connects to the backend via REST APIs to provide a seamless e-commerce experience including product browsing, user authentication, cart functionality, and more.
+>>>>>>> aa8d55ad759cd5027d247242e732871ca1d1037c
 
 
 ## Flipkart Frontend
@@ -149,6 +154,7 @@ Available Pages
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -182,6 +188,21 @@ ________________________________________
 
 
 Deployment
+=======
+## Screenshots
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c10c733e-2668-4116-86a0-97601ad0a38e" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8b10bdd2-1610-4bb9-b22f-94b06b9893e4" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/6b2bc846-4d79-4d6c-812f-93103f3816b0" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1abda27e-21ea-42a1-a2b4-8db26e35f41d" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7bc7bda5-6f2a-460f-82c9-95bbbcf096e5" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d57b5998-9119-4998-84d0-0d57adf7b31c" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f3433b19-5598-4998-9e2b-8f9117a07ed6" />
+
+
+
+## Deployment
+>>>>>>> aa8d55ad759cd5027d247242e732871ca1d1037c
 You can deploy this frontend on:
 •	Netlify
 •	Vercel
