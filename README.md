@@ -165,6 +165,7 @@ Available Pages
 ## Deployment
 >>>>>>> aa8d55ad759cd5027d247242e732871ca1d1037c
 You can deploy this frontend on:
+•	Render
 •	Netlify
 •	Vercel
 •	GitHub Pages
