@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
 
-// Base URL for your backend API
-const API_BASE_URL = 'http://localhost:5000/api';
+// Base URL for your backend API (UPDATED FOR RENDER DEPLOYMENT)
+const API_BASE_URL = 'https://flipkart-backend-1-2ig3.onrender.com/api';
 
 // --- Contexts ---
 
